@@ -1,2 +1,3 @@
 # testgit
-## this reposoitory is for learning git and github
+## this repository is for learning git and github
+### i am glad of it
